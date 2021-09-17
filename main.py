@@ -1,5 +1,6 @@
 import requests
 
+#requests.post(url='https://arnulfo190699.github.io/data/test.json', json={})
 r = requests.get(url='https://arnulfo190699.github.io/data/test.json')
 try:
     data = r.json()
