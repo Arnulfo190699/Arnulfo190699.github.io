@@ -1,6 +1,0 @@
-{
-    "users": [
-            {"nombre":"Esteban", "edad":23},
-            {"nombre":"Arnulfo", "edad":22}           
-        ]
-}
